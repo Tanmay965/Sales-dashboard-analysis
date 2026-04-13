@@ -2,7 +2,7 @@ Sales Dashboard Analysis:
 
 Project Overview: This project analyzes the Superstore dataset to extract meaningful business insights using Excel, SQL, and Power BI. It focuses on data cleaning, transformation, and visualization to support data-driven decision-making.
 
-Tools & Technologies: Microsoft Excel,SQL, Power BI
+Tools & Technologies: Microsoft Excel, SQL, Power BI
 
 Dataset: Superstore Dataset (sample retail dataset)
 
