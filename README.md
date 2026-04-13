@@ -6,14 +6,14 @@ Tools & Technologies: Microsoft Excel,SQL, Power BI
 
 Dataset: Superstore Dataset (sample retail dataset)
 
-Workflow
+Workflow: 
 1.Cleaned and preprocessed raw data using Excel and SQL
 2.Handled missing values and ensured data accuracy
 3.Converted data into a structured format
 4.Imported the processed data into Power BI
 5.Created an interactive dashboard for analysis
 
-Key Features
+Key Features:
 Sales trend analysis
 Profit distribution insights
 Regional performance comparison
